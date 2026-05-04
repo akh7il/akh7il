@@ -1,19 +1,21 @@
 # 👋 Hi, I'm Akhil Madhu  
 ### Full Stack Developer
 
-I am a dedicated Full-Stack Developer with hands-on experience in Python, Django, JavaScript, and modern UI/UX. I specialize in building scalable, high-performance web applications with clean architecture, efficient backend logic, and intuitive user interfaces.
+I am a dedicated Full-Stack Developer with hands-on experience in Python, Django, JavaScript, and modern frontend technologies like React. I specialize in building scalable, high-performance web applications with clean architecture, efficient backend systems, and intuitive, responsive user interfaces.
 
-I enjoy solving complex problems, learning new technologies, and developing real-world digital solutions that make an impact.
+I have developed real-world projects including eCommerce platforms, real-time chat applications, and a complete gaming platform. I enjoy solving complex problems, learning new technologies, and creating impactful digital solutions.
 
 ---
 
 ## 🧩 Professional Summary
 
-- Experienced in developing **end-to-end full-stack web applications** using Django and JavaScript.  
-- Strong understanding of backend development, API integration, authentication flows, and clean architecture.  
-- Skilled in modern UI/UX practices with responsive and performance-optimized frontends.  
-- Proven ability to work in **agile teams**, implement reusable components, and follow clean coding standards.  
-- Fast learner with strong communication, adaptability, and problem-solving skills.
+- Experienced in developing end-to-end full-stack applications using Django, JavaScript, and React.
+- Strong understanding of backend architecture, REST APIs, authentication systems, and session management.
+- Built GameOn, a multi-game web platform integrating multiple interactive browser-based games.
+- Developed ECHO, a real-time chat application using React and Firebase with live messaging.
+- Skilled in modern UI/UX practices, responsive design, and performance optimization.
+- Proven ability to work in Agile environments, write clean code, and build reusable components.
+- Fast learner with strong problem-solving, communication, and adaptability skills.
 
 ---
 
@@ -23,13 +25,13 @@ I enjoy solving complex problems, learning new technologies, and developing real
 Python, JavaScript, HTML5, CSS3  
 
 **Frameworks & Libraries:**  
-Django, Bootstrap, jQuery  
+Django, React, Bootstrap, jQuery
 
 **Tools:**  
-Git, GitHub, VS Code, Django Admin, Chrome DevTools  
+Git, GitHub, VS Code, Django Admin, Chrome DevTools, Figma
 
 **Core Expertise:**  
-Full-Stack Development, REST APIs, UI/UX, Responsive Design, Session Handling, Frontend Development
+Full-Stack Development, REST APIs, Authentication Systems, UI/UX Design, Responsive Design, State & Session Management
 
 ---
 
@@ -52,23 +54,48 @@ Full-Stack Development, REST APIs, UI/UX, Responsive Design, Session Handling, F
 ## 🚀 Projects
 
 ### **Fresh — E-Commerce Website**  
-*Full Stack Developer | Django, HTML, CSS, JavaScript, Bootstrap*  
 - Developed a complete e-commerce platform with dynamic product pages and smooth user interaction.  
 - Implemented authentication, cart functionality, order flow, and session-based logic.  
 - Added an admin panel for managing products and orders.
 
-### **Cody Café — Responsive Café Website**  
-*Full Stack Developer | Django, HTML, CSS, JavaScript, Bootstrap*  
-- Built a fully responsive café website with a modern, clean user interface.  
+### **Cody Cafe — Cafe Website**  
+- Built a fully responsive cafe website with a modern, clean user interface.  
 - Integrated Django templates for dynamic content and CRUD functionality.  
 - Added user authentication and interactive UI components for an enhanced user experience.
 
+### **ECHO — Real-Time Chat Application**  
+- Built a real-time chat system with live messaging and instant updates.  
+- Implemented Firebase Authentication and Firestore database.
+- Added features like user search, unread message tracking, and responsive UI.
+- Managed application state efficiently for smooth performance.
+
+### **GameOn — Gaming Platform**  
+- Developed a complete gaming platform interface integrating multiple browser-based games. 
+- Built features like game categorization, filtering system, and responsive UI.
+- Implemented multiple games.
+
+### **Personal Portfolio Website**  
+- Designed and deployed a responsive portfolio website.
+- Showcases projects, skills, and contact information.
+  
 ---
 
 ## 🎯 Soft Skills
 
 Leadership • Communication • Creativity • Innovation • Time Management  
 Critical Thinking • Teamwork • Adaptability • Quick Learning
+
+---
+
+## 🏆 Certification
+
+MERN Stack Developer — ICT Academy of Kerala
+
+---
+
+## 🌍 Languages
+
+English • Malayalam
 
 ---
 
