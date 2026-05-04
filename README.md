@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Akhil Madhu  
-### Python Developer | Full Stack Developer
+### Full Stack Developer
 
 I am a dedicated Full-Stack Developer with hands-on experience in Python, Django, JavaScript, and modern UI/UX. I specialize in building scalable, high-performance web applications with clean architecture, efficient backend logic, and intuitive user interfaces.
 
